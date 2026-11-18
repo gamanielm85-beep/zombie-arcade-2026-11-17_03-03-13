@@ -24,13 +24,6 @@ Juego de acción y supervivencia en tercera persona, creado en Unity. Controla a
 - El jefe tiene una barra de vida, persigue al jugador y puede invocar zombis de apoyo.
 - Si la vida llega a cero, aparece **GAME OVER**. Tras ganar, la partida se reinicia automáticamente al cabo de **5 segundos**; también puedes reiniciarla antes con `Enter`, `R` o el botón.
 
-## Abrir y generar el nivel
-
-1. Abre la carpeta del proyecto con Unity Hub y espera a que termine la importación.
-2. En el editor, ejecuta **Zombie Game > Construir proyecto completo** para generar el nivel y sus recursos.
-3. Cuando termine la generación, abre `Assets/Scenes/Nivel1.unity` y pulsa **Play**.
-
-El constructor incluye `Nivel1.unity` en la lista de escenas del proyecto para facilitar su ejecución y compilación.
 
 ## Tecnologías
 
